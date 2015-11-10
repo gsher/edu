@@ -1,0 +1,8 @@
+# K&R -- The C Programming Language
+
+## Before
+
+I am excited to start this book. When I was just a kid, I attempted to learn C, 
+but it just wasn't happening for me. Now, years later, after detours with 
+Python, Java, and C#, I get to return to the granddaddy of them all. K&R is 
+simply the default C book, and I am excited to get started.
